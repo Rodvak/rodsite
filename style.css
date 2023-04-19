@@ -2,7 +2,7 @@ body {
     background-color: var(--light-yellow);
     font-family: "Poppins", sans-serif, Georgia, 'Times New Roman', Times, serif;
     margin: auto auto;
-    max-width: 1024px;
+    max-width: 1023px;
     box-sizing: border-box;
     font-size: 18px;
     line-height: 1.5;
