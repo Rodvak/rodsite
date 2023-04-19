@@ -166,12 +166,13 @@ a:hover {
     }
     h1 {
         font-size: 4rem;
+        line-height: 1;
     }
     .hero {
         flex-direction: column;
         height: auto;
         align-items: flex-start;
-        padding-top: 150px;
+        padding-top: 65px;
     }
     .picture {
         width: 250px;
